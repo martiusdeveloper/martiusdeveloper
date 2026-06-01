@@ -1,10 +1,10 @@
-# Hi 👋, I'm Lucas Martins
+# Hi 🖖, I'm Lucas Martins
 
 ### A Fullstack Product Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermartins&label=Profile views&color=0e75b6&style=flat" alt="developermartins" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developermartins" alt="developermartins" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=developermartins" alt="developermartins" /></a> </p>
 
 - 🔭 I'm currently working on **a personal tool that organize my personal finances.**
 
