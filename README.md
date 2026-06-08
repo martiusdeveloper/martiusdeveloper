@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/developermartins](https://github.com/developermartins)**
+- 👨‍💻 All of my projects are available at **[https://github.com/martiusdeveloper](https://github.com/martiusdeveloper)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
