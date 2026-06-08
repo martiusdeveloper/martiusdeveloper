@@ -4,7 +4,7 @@
 
 <hr></hr>
 
-<img src="./readme-art.gif" align="right" width="360px" height="290px"/>
+<img src="./readme-art.gif" align="right" width="360px" height="295px"/>
 
 - 🔭 I'm currently working on **a personal tool that organize my personal finances.**
 
