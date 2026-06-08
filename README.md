@@ -10,7 +10,7 @@
   style="
    width: 360px; 
    height: 295px;
-   border-radius: 16px
+   border-radius: 16px;
   "
 />
 
