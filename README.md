@@ -4,7 +4,15 @@
 
 <hr></hr>
 
-<img src="./readme-art.gif" align="right" width="360px" height="295px"/>
+<img
+  src="./readme-art.gif" 
+  align="right"
+  style="
+   width: 360px; 
+   height: 295px;
+   border-radius: 16px
+  "
+/>
 
 - 🔭 I'm currently working on **a personal tool that organize my personal finances.**
 
