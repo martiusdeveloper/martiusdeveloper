@@ -4,6 +4,8 @@
 
 <hr></hr>
 
+<img src="./readme-art.gif" align="right" width="360px" height="290px"/>
+
 - 🔭 I'm currently working on **a personal tool that organize my personal finances.**
 
 - 🌱 I'm currently learning **Development with AI.**
