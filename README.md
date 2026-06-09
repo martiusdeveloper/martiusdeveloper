@@ -4,26 +4,20 @@
 
 <hr></hr>
 
-<img src="./readme-art.gif" align="right" width="360px" height="295px" />
-
-- 🔭 I'm currently working on **a personal tool that organize my personal finances.**
+- 🔭 I'm currently working on **a personal tool that organize my personal finances & freelancer projects.**
 
 - 🌱 I'm currently learning **Development with AI.**
 
-- 👯 I'm looking to collaborate on **Your project maybe...**
+- 📖 I'm reading **Clean Agile Back To Basics - Uncle Bob**
 
-- 💬 Ask me about **anything.**
-
-- 📫 How to reach me **martssilvapro@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
+- 📫 How to reach me **martiusdeveloper@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/martiusdeveloper](https://github.com/martiusdeveloper)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/martiusdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="developermartins" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/martiusdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developermartins" height="30" width="40" /></a>
+<a href="https://github.com/martiusdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="martiusdeveloper" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/martiusdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martiusdeveloper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
